@@ -59,7 +59,9 @@ multitasking==0.0.11
 namex==0.0.8
 networkx==3.1
 nltk==3.8.1
-numpy==1.25.0
+setuptools>=58.0.0
+wheel>=0.37.0
+numpy==1.25.2
 opt-einsum==3.3.0
 optree==0.12.1
 packaging==23.1
@@ -96,7 +98,6 @@ scikit-learn==1.5.0
 scipy==1.10.1
 Scrapy==2.11.2
 service-identity==24.1.0
-setuptools>=58.0.0
 six==1.16.0
 smmap==5.0.1
 soupsieve==2.5
@@ -124,7 +125,6 @@ w3lib==2.2.1
 watchdog==4.0.1
 webencodings==0.5.1
 Werkzeug==3.0.3
-wheel>=0.37.0
 wrapt==1.16.0
 yfinance==0.2.41
 zope.interface==7.0.1
