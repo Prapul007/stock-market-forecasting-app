@@ -99,7 +99,6 @@ This Jupyter notebook includes:
 ## Contributing
 Feel free to submit a pull request if you'd like to contribute to the project. Please ensure that your code follows the PEP 8 style guide.
 
-# License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
