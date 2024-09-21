@@ -65,11 +65,11 @@ smmap==5.0.1
 soupsieve==2.6
 streamlit==1.38.0
 tenacity==8.5.0
-tensorboard==2.17.1
-tensorboard-data-server==0.7.2
+tensorboard
+tensorboard-data-server
 tensorflow
-tensorflow-intel==2.12.0 
-tensorflow-io-gcs-filesystem==0.31.0
+tensorflow-intel 
+tensorflow-io-gcs-filesystem
 termcolor==2.4.0
 threadpoolctl==3.5.0
 toml==0.10.2
