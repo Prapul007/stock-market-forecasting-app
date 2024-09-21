@@ -59,7 +59,7 @@ multitasking==0.0.11
 namex==0.0.8
 networkx==3.1
 nltk==3.8.1
-setuptools==65.5.0
+setuptools==75.1.0
 wheel>=0.38.0
 opt-einsum==3.3.0
 optree==0.12.1
@@ -83,7 +83,7 @@ pyOpenSSL==24.2.1
 pyparsing==3.1.0
 python-dateutil==2.8.2
 pytz==2023.3
-PyWavelets==1.4.1
+PyWavelets==1.7.0
 queuelib==1.7.0
 referencing==0.35.1
 regex==2024.5.15
