@@ -67,6 +67,7 @@ pandas==2.0.2
 parsel==1.9.1
 peewee==3.17.6
 Pillow==9.5.0
+pip>=24.2.0
 platformdirs==4.2.2
 Protego==0.3.1
 protobuf==4.25.3
@@ -95,7 +96,7 @@ scikit-learn==1.5.0
 scipy==1.10.1
 Scrapy==2.11.2
 service-identity==24.1.0
-setuptools>=42.0.0
+setuptools>=58.0.0
 six==1.16.0
 smmap==5.0.1
 soupsieve==2.5
@@ -123,6 +124,10 @@ w3lib==2.2.1
 watchdog==4.0.1
 webencodings==0.5.1
 Werkzeug==3.0.3
+wheel>=0.37.0
 wrapt==1.16.0
 yfinance==0.2.41
 zope.interface==7.0.1
+
+
+
